@@ -1,3 +1,5 @@
+You probably want to just install [Overkill for Mac](https://github.com/KrauseFx/overkill-for-mac)
+
 # iTunes Sniper
 
 ![Neat](./neat.gif)
