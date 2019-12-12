@@ -12,4 +12,4 @@ async function monitor() {
   }
 }
 
-setInterval(monitor, 1000);
+module.exports = monitor;

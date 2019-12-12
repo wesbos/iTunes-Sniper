@@ -1,0 +1,24 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "iTunes Sniper Electron App",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^7.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx electron index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheushrt/iTunes-Sniper.git"
+  },
+  "author": "Matheus Souza <matheushrt@gmail.com> (https://github.com/matheushrt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheushrt/iTunes-Sniper/issues"
+  },
+  "homepage": "https://github.com/matheushrt/iTunes-Sniper#readme"
+}

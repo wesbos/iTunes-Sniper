@@ -13,3 +13,9 @@ Someone make this into a startup script? Or nice little electron app?
 Prior Art: [Overkill.rb](https://github.com/KrauseFx/overkill/blob/master/overkill.rb)
 
 License: WTFPL
+
+# Electron App Version
+
+This is the inital idea about the electron app. Feel free to create new issues and contribute.
+
+Move to electron directory `cd electron`. Then install dependencies with `npm install` or `yarn` and run the app with `yarn start` or `npm start` ``
