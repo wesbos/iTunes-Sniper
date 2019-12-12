@@ -6,7 +6,7 @@ You probably want to just install [Overkill for Mac](https://github.com/KrauseFx
 
 Any time iTunes tries to open, kill it and open Spotify.
 
-It's a node script. Run it with `node overkill.js`.
+It's a node script. Run it with `node index.js`.
 
 Someone make this into a startup script? Or nice little electron app?
 
